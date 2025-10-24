@@ -26128,6 +26128,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			discharge: ["9L40", "7L40", "6L40", "5L40", "4L34"],
 			doubleedge: ["9M", "3T"],
 			doubleteam: ["7M", "7V", "6M", "5M", "4M", "3M"],
+			dracometeor: ["9M"],
 			dragoncheer: ["9M"],
 			dragonpulse: ["9M", "9L1", "7T", "7L1", "6T", "6L1"],
 			dragontail: ["9M"],
