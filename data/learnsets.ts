@@ -26193,6 +26193,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			swagger: ["7M", "7V", "6M", "5M", "4M", "3T"],
 			swift: ["9M", "7V", "4T", "3T"],
 			tackle: ["9L1", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
+			tailglow: ["9M"],
 			takedown: ["9M", "9L20", "7L20", "6L20", "5L20"],
 			terablast: ["9M"],
 			thunder: ["9M", "9L62", "7M", "7L62", "7V", "6M", "6L62", "5M", "5L62", "4M", "4L68", "3M", "3L57"],
