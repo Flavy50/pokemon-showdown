@@ -19512,7 +19512,6 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			hyperbeam: ["8M", "8V", "7M", "7V", "6M", "5M", "4M", "3M"],
 			irondefense: ["8M", "7T", "6T", "5T", "4T"],
 			knockoff: ["7T", "6T", "5T", "4T"],
-			leechlife: ["9M"],
 			mefirst: ["7E", "6E", "5E", "5D"],
 			mimic: ["7V", "3T"],
 			naturalgift: ["4M"],
