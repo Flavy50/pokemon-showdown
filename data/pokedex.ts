@@ -8075,7 +8075,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		baseSpecies: "Garchomp",
 		forme: "Mega",
 		types: ["Dragon", "Ground"],
-		baseStats: { hp: 108, atk: 170, def: 107, spa: 90, spd: 105, spe: 110 },
+		baseStats: { hp: 108, atk: 170, def: 110, spa: 90, spd: 105, spe: 107 },
 		abilities: { 0: "Sand Force" },
 		heightm: 1.9,
 		weightkg: 95,
