@@ -33645,7 +33645,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			dragonpulse: ["9M", "8M", "7T", "6T", "5T", "5S0", "4M"],
 			dragontail: ["9M"],
 			drainpunch: ["9M", "8M", "7T", "6T", "5T", "4M"],
-			dualchop: ["8L0", "7T", "7L1", "6T", "6L36"],
+			dualchop: ["9M", "8L0", "7T", "7L1", "6T", "6L36"],
 			dynamicpunch: ["3T"],
 			earthquake: ["9M", "8M", "7M", "6M", "5M", "4M", "3M"],
 			endeavor: ["9M", "9L49", "8L56", "7T", "6T", "5T", "4T"],
