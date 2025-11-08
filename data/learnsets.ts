@@ -40520,6 +40520,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			secretpower: ["6M", "4M", "3M"],
 			selfdestruct: ["3T"],
 			sleeptalk: ["9M", "7M", "6M", "5T", "4M", "3T"],
+			sludgebomb: ["9M"],
+			sludgewave: ["9M"],
 			smackdown: ["9M"],
 			snore: ["7T", "6T", "5T", "4T", "3T"],
 			solarbeam: ["9M", "7M", "6M", "5M", "4M"],
