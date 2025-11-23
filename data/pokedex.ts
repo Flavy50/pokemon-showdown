@@ -5743,7 +5743,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		baseSpecies: "Sableye",
 		forme: "Mega",
 		types: ["Dark", "Ghost"],
-		baseStats: { hp: 50, atk: 75, def: 125, spa: 65, spd: 135, spe: 30 },
+		baseStats: { hp: 50, atk: 75, def: 130, spa: 65, spd: 130, spe: 30 },
 		abilities: { 0: "Magic Bounce" },
 		heightm: 0.5,
 		weightkg: 161,
